@@ -78,3 +78,6 @@ This project is a frontend system for a **AttendEase** application. It provides 
 
 - **LogIn**
   ![Login](./assets/Screenshot%202024-12-08%20092149.png)
+=======
+AttendEase
+>>>>>>> ffeef38c3e76a944075c09e619cdbeccd1f64b81
